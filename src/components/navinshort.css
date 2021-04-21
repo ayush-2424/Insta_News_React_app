@@ -1,0 +1,35 @@
+.nav
+{
+    height: 71px;
+    width: 100%;
+    box-shadow: 0px 1px 8px #888888;
+    display: flex;
+    align-items: center;
+    background-color:mintcream;
+
+}
+
+.icon{
+    flex:0.50;
+}
+
+.p1{
+    align-items: flex-end;
+}
+
+.logo{
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 60px;
+    margin-left: 40px;
+    align-items: center;
+    float: right;
+}
+
+@media screen and (max-width: 650px) {
+    .logo{
+      float: none;
+      font-size: 20px;
+      text-align: center;
+      margin-left: auto;
+    }
+}

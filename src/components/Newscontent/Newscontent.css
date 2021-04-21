@@ -1,0 +1,40 @@
+
+
+.downloadMessage{
+    width: 95%;
+    display: flex;
+    background-color:black;
+    align-items: center;
+    height: 50px;
+    padding: 0 40px;
+    margin: 20px 0 35px 0;
+    color:seashell;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0;
+}
+
+.loadmore{
+   background-color: teal;
+   color:white;
+   text-align: center;
+   font-size: 16px;
+   margin: 4px 2px;
+   /* transition-duration: 0.4px; */
+   align-items: center;
+}
+.loadmore:hover{
+    background-color: white;
+    color:teal;
+}
+
+
+@media(max-width:995px){
+    .downloadMessage{
+        display: none;
+    }
+    .loadmore{
+        font-size: 10px;
+        size: inherit;
+    
+    }
+    
+}
