@@ -1,6 +1,8 @@
 # Insta_News_React_app
  react News App
 
+***Insta short news app is a react based news app that selects latest and best news from multiple national and international sources and summarises them to present in a short and crisp 60 words or less format, personalized news in English.***
+
 <img width="960" alt="i1" src="https://user-images.githubusercontent.com/56045726/115891047-41f98d00-a473-11eb-8d92-1a55d6d3d0d3.PNG">
 
 
@@ -11,7 +13,6 @@
 <img width="960" alt="i4" src="https://user-images.githubusercontent.com/56045726/115891285-8ab14600-a473-11eb-96f5-9c0f07bf5764.PNG">
 
 
-***Insta short news app is a raect based news app that selects latest and best news from multiple national and international sources and summarises them to present in a short and crisp 60 words or less format, personalized news in English.***
 
 WebSite link-https://insta-news-app-cray-2edb64.netlify.app/
 
