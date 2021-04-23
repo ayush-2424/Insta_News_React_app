@@ -1,2 +1,23 @@
 # Insta_News_React_app
  react News App
+
+
+
+Insta short news app is a raect based news app that selects latest and best news from multiple national and international sources and summarises them to present in a short and crisp 60 words or less format, personalized news in English.
+
+WebSite link-https://insta-news-app-cray-2edb64.netlify.app/
+
+#Features:
+1- Short and crisp news at once in just 60 words.
+2- News Categories - A vast variety in the same app
+3-Simple and easy to use.
+4-For frontend it use react js, html and css
+5- It use news Api link-https://newsapi.org/docs.
+
+#For setup in your pc-
+Just download Git repo.
+Enter your api key in config.js file location(src/data/config.js).
+For getting the news api key ,please read the documentation at-https://newsapi.org/docs.
+Finally run the command in command prompt e.g.-npm start.
+
+
