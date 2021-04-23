@@ -6,6 +6,11 @@
 
 <img width="960" alt="i2" src="https://user-images.githubusercontent.com/56045726/115890235-5d17cd00-a472-11eb-9ce0-94fc5d847dd8.PNG">
 
+<img width="960" alt="i3" src="https://user-images.githubusercontent.com/56045726/115891217-753c1c00-a473-11eb-99aa-07c444edcfae.PNG">
+
+<img width="960" alt="i4" src="https://user-images.githubusercontent.com/56045726/115891285-8ab14600-a473-11eb-96f5-9c0f07bf5764.PNG">
+
+
 Insta short news app is a raect based news app that selects latest and best news from multiple national and international sources and summarises them to present in a short and crisp 60 words or less format, personalized news in English.
 
 WebSite link-https://insta-news-app-cray-2edb64.netlify.app/
