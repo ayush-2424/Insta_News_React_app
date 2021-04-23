@@ -22,7 +22,7 @@ WebSite link-https://insta-news-app-cray-2edb64.netlify.app/
 4-For frontend it use react js, html and css\
 5- It use news Api link-https://newsapi.org/docs.
 
-***#For setup in your pc-***\
+#***For setup in your pc-***\
 Just download Git repo.\
 Enter your api key in config.js file location(src/data/config.js).\
 For getting the news api key ,please read the documentation at-https://newsapi.org/docs.\
