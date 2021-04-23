@@ -26,6 +26,6 @@ WebSite link-https://insta-news-app-cray-2edb64.netlify.app/
 Just download Git repo.\
 Enter your api key in config.js file location(src/data/config.js). \
 For getting the news api key ,please read the documentation at-https://newsapi.org/docs. \
-Finally run the command in command prompt e.g.-npm start.\
+Finally run the command in command prompt e.g.-npm start.
 
 
