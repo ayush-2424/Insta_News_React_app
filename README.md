@@ -1,6 +1,8 @@
 # Insta_News_React_app
  react News App
 
+<img width="960" alt="i1" src="https://user-images.githubusercontent.com/56045726/115891047-41f98d00-a473-11eb-8d92-1a55d6d3d0d3.PNG">
+
 
 <img width="960" alt="i2" src="https://user-images.githubusercontent.com/56045726/115890235-5d17cd00-a472-11eb-9ce0-94fc5d847dd8.PNG">
 
