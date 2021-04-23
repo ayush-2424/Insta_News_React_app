@@ -16,10 +16,10 @@ Insta short news app is a raect based news app that selects latest and best news
 WebSite link-https://insta-news-app-cray-2edb64.netlify.app/
 
 #Features:
-1- Short and crisp news at once in just 60 words.
-2- News Categories - A vast variety in the same app
-3-Simple and easy to use.
-4-For frontend it use react js, html and css
+1- Short and crisp news at once in just 60 words.\
+2- News Categories - A vast variety in the same app\
+3-Simple and easy to use.\
+4-For frontend it use react js, html and css\
 5- It use news Api link-https://newsapi.org/docs.
 
 #For setup in your pc-
